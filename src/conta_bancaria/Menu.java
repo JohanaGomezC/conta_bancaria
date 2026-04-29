@@ -77,7 +77,7 @@ public class Menu {
 		System.out.println("*****************************************************");
 		System.out.println("Projeto Desenvolvido por: ");
 		System.out.println("Johana Gómez Cardona - johagomez9806@gmail.com");
-		System.out.println("link GitHub");
+		System.out.println("https://github.com/JohanaGomezC");
 		System.out.println("*****************************************************");
 	}
 
